@@ -1,0 +1,7 @@
+pane	0	1	:zsh	1	:*	0	:/opt/apache-tomcat-9.0.12	0	zsh	:
+pane	0	1	:zsh	1	:*	1	:/lib/systemd	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/etc/systemd/system	1	zsh	:
+pane	1	1	:zsh	1	:*	0	:/	1	zsh	:
+window	0	1	1	:*	c2ef,211x57,0,0{106x57,0,0,1,104x57,107,0[104x29,107,0,2,104x27,107,30,3]}
+window	1	1	1	:*	c961,211x57,0,0,4
+state	1	

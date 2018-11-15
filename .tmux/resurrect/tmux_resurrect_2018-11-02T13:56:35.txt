@@ -1,0 +1,5 @@
+pane	0	1	:zsh	1	:*	0	:/etc/init.d	0	zsh	:
+pane	0	1	:zsh	1	:*	1	:/etc/systemd/system	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/etc/systemd/system	1	zsh	:
+window	0	1	1	:*	836a,204x54,0,0{102x54,0,0,2,101x54,103,0[101x27,103,0,3,101x26,103,28,4]}
+state	0	

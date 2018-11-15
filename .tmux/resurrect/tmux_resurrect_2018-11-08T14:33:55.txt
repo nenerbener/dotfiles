@@ -1,0 +1,9 @@
+pane	0	1	:zsh	1	:*	0	:/home/mm/Documents/passwords	0	zsh	:
+pane	0	1	:zsh	1	:*	1	:/lib/systemd	0	zsh	:
+pane	0	1	:zsh	1	:*	2	:/etc/systemd/system	1	zsh	:
+pane	1	1	:zsh	1	:*	0	:/home/mm	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/	0	zsh	:
+pane	1	1	:zsh	1	:*	2	:/home/mm/Documents/passwords	0	zsh	:
+window	0	1	1	:*	d0af,211x57,0,0{106x57,0,0,1,104x57,107,0[104x30,107,0,2,104x26,107,31,3]}
+window	1	1	1	:*	42fd,211x57,0,0{106x57,0,0,4,104x57,107,0[104x29,107,0,5,104x27,107,30,6]}
+state	1	
