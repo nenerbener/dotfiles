@@ -79,6 +79,7 @@ source $ZSH/oh-my-zsh.sh
 # Exports 
 addToPATH /home/mm/eclipse/java-photon/eclipse
 addToPATH /home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin
+addToPATH /home/mm/scripts
 #export PATH="/home/mm/eclipse/java-photon/eclipse:$PATH"
 #export PATH="/home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin:$PATH"
 #
@@ -90,11 +91,12 @@ addToPATH /home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-if [[ -n $SSH_CONNECTION ]]; then
-  export EDITOR='vim'
-else
-  export EDITOR='mvim'
-fi
+#if [[ -n $SSH_CONNECTION ]]; then
+export EDITOR='vim'
+#  export EDITOR='vim'
+#else
+#  export EDITOR='mvim'
+#fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -132,3 +134,4 @@ fi
 # tomcat home
 # put this in /etc/environment
 #export CATALINA_HOME=/opt/tomcat
+
