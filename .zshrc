@@ -80,7 +80,7 @@ source $ZSH/oh-my-zsh.sh
 addToPATH /home/mm/eclipse/java-photon/eclipse
 addToPATH /home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin
 addToPATH /home/mm/scripts
-#export PATH="/home/mm/eclipse/java-photon/eclipse:$PATH"
+export PATH
 #export PATH="/home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin:$PATH"
 #
 #
