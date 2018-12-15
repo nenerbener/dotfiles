@@ -81,6 +81,7 @@ addToPATH /home/mm/eclipse/java-photon/eclipse
 addToPATH /home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin
 addToPATH /home/mm/scripts
 export PATH
+
 #export PATH="/home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin:$PATH"
 #
 #
@@ -134,4 +135,7 @@ fi
 # tomcat home
 # put this in /etc/environment
 #export CATALINA_HOME=/opt/tomcat
+
+#alias mysql-workbench to start with sudo
+#alias wb="sudo mysql-workbench&"
 
