@@ -80,6 +80,7 @@ source $ZSH/oh-my-zsh.sh
 addToPATH /home/mm/eclipse/java-photon/eclipse
 addToPATH /home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin
 addToPATH /home/mm/scripts
+addToPATH /home/mm/.nvm
 export PATH
 
 #export PATH="/home/mm/eclipse-workspace/nutch-1xx/runtime/local/bin:$PATH"
@@ -139,3 +140,6 @@ fi
 #alias mysql-workbench to start with sudo
 #alias wb="sudo mysql-workbench&"
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
